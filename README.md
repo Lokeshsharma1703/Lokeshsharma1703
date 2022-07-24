@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there, I am Lokesh Sharma👋
 
+![Lokesh Sharma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lokeshsharma1703&show_icons=true&theme=radical)
 <!--
 **Lokeshsharma1703/Lokeshsharma1703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
