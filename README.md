@@ -1,4 +1,4 @@
-### Hi there, I am Lokesh Sharma👋
+## Hi there, I am Lokesh Sharma👋
 
 ![Lokesh Sharma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lokeshsharma1703&show_icons=true&theme=radical)
 <!--
