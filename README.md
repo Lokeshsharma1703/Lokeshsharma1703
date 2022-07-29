@@ -52,8 +52,8 @@ src="https://img.shields.io/github/followers/Lokeshsharma1703?logo=github&style=
 -----------
 
 <p align="left"> <a href="https://www.github.com/Lokeshsharma1703" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>&nbsp;&nbsp;
-<a href="[http://www.instagram.com/amirziya.py](https://www.instagram.com/lokesh_sharma1703/)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>&nbsp;&nbsp;
-<a href="(https://twitter.com/Lokesh1703)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>&nbsp;&nbsp;</p>
+<a href="https://www.instagram.com/lokesh_sharma1703/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/Lokesh1703" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>&nbsp;&nbsp;</p>
 
 <br/>
 <p align="center" >
