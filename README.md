@@ -33,6 +33,7 @@ src="https://img.shields.io/github/followers/Lokeshsharma1703?logo=github&style=
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Lokeshsharma1703&theme=radical"><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lokeshsharma1703&show_icons=true&locale=en&layout=compact&theme=radical">
 <br/><br/><br/>
 ### Skills
+----------
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>&nbsp;
@@ -46,7 +47,9 @@ src="https://img.shields.io/github/followers/Lokeshsharma1703?logo=github&style=
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>&nbsp;
 </p>
 <br/>
+
 ### Socials
+-----------
 
 <p align="left"> <a href="https://www.github.com/Lokeshsharma1703" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>&nbsp;&nbsp;
 <a href="[http://www.instagram.com/amirziya.py](https://www.instagram.com/lokesh_sharma1703/)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>&nbsp;&nbsp;
