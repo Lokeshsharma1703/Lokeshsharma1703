@@ -7,7 +7,7 @@
 # Hi there, I am LOKESH SHARMA👋
 DEVELOPER
 ---------
-I started programming at the age of 17 and now I am studying and coding. I started programming with C, then Python, Java. Now I am able to design a website with HTML, CSS and Javascript. Currently I am working on Flutter.
+I started programming at the age of 17 and now I am studying and brushing my programming skills. I started programming with C, then Python, Java. Now I am able to design a website with HTML, CSS and Javascript. Currently I am working on Flutter.
 
 * 🌍  I'm from INDIA 
 * 🖥️  See my portfolio at [Linkedin](https://www.linkedin.com/in/lokeshsharma1703/)
