@@ -11,6 +11,7 @@ I started programming at the age of 17 and now I am studying and brushing my pro
 
 * 🌍  I'm from INDIA 
 * 🖥️  See my portfolio at [Linkedin](https://www.linkedin.com/in/lokeshsharma1703/)
+* 📜  See my Resume at [Resume](https://lokeshsharma1703.github.io/Resume/)
 * ✉️  You can contact me at [lokeshsharma17032003@gmail.com](mailto:lokeshsharma17032003@gmail.com)
 * 🚀  I'm currently working on [Flutter](http://https://flutter.dev/)
 * 🧠  I'm learning Web Development
