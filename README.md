@@ -3,12 +3,13 @@
 <img align="right" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 </p>
 <br/>
+<!--&center=true-->
+<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=4500&color=447FF7&background=FFFFFF00&vCenter=true&width=650&height=55&lines=Hey!+It's+Lokesh+Sharma+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Software+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+from+India;I+have+1%2B+years+of+experience+%F0%9F%93%88;Frontend+and+Backend+development+%E2%9A%99%EF%B8%8F" alt="Lokesh Sharma" width="650" height="55">
 
-# Hi there, I am LOKESH SHARMA👋
-DEVELOPER
----------
-I started programming at the age of 17 and now I am studying and brushing my programming skills. I started programming with C, then Python, Java. Now I am able to design a website with HTML, CSS and Javascript. Currently I am working on Flutter.
-
+<!--# Hi there, I am LOKESH SHARMA👋-->
+Lokesh Sharma
+-------------
+<!--I started programming at the age of 17 and now I am studying and brushing my programming skills. I started programming with C, then Python, Java. Now I am able to design a website with HTML, CSS and Javascript. Currently I am working on Flutter.-->
 * 🌍  I'm from INDIA 
 * ✉️  You can contact me at [lokeshsharma17032003@gmail.com](mailto:lokeshsharma17032003@gmail.com)
 * 🚀  I'm currently working on [Flutter](http://https://flutter.dev/)
