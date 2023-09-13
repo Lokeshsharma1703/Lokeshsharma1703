@@ -14,7 +14,7 @@ Lokesh Sharma
 * ✉️  You can contact me at [lokeshsharma17032003@gmail.com](mailto:lokeshsharma17032003@gmail.com)
 * 🚀  I'm currently working on [Flutter](http://https://flutter.dev/)
 * 🧠  I'm learning Web Development
-* 🖥️  See my portfolio at ([https://www.linkedin.com/in/lokeshsharma1703/](https://lokeshsharma1703.github.io/Portfolio/))<!--* 📜  See my Resume at [Resume](https://lokeshsharma1703.github.io/Resume/)-->
+* 🖥️  See my portfolio at ([[https://lokeshsharma1703.github.io/Portfolio/](https://lokeshsharma1703.github.io/Portfolio/)])<!--* 📜  See my Resume at [Resume](https://lokeshsharma1703.github.io/Resume/)-->
 
 <a href="(https://twitter.com/Lokesh1703)" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Lokesh1703?logo=twitter&style=for-the-badge&color=f97316&labelColor=000000"
