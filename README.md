@@ -69,11 +69,10 @@ src="https://img.shields.io/github/followers/Lokeshsharma1703?logo=github&style=
 <a href="https://www.instagram.com/lokesh_sharma1703/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>&nbsp;&nbsp;
 <a href="https://twitter.com/Lokesh1703" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>&nbsp;&nbsp;</p>
 
-
-  
 <br/>
 <p align="center" >
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=Lokeshsharma1703&theme=radical">
+  <img src="https://streak-stats.demolab.com?user=Lokeshsharma1703&theme=dark&hide_border=true&border_radius=7&type=png)(https://git.io/streak-stats)">
+<!-- <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=Lokeshsharma1703&theme=radical"> -->
 </p> 
 
 <br/>
