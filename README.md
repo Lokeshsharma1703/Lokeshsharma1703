@@ -22,7 +22,7 @@ src="https://img.shields.io/twitter/follow/Lokesh1703?logo=twitter&style=for-the
 <a href="[https://www.github.com/Lokeshsharma1703](https://github.com/Lokeshsharma1703)" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Lokeshsharma1703?logo=github&style=for-the-badge&color=f97316&labelColor=000000" /></a>
 <br/><br/>
-## Hacktoberfest 2022
+## Hacktoberfest 2023
 [![@lokeshsharma1703's Holopin board](https://holopin.me/lokeshsharma1703)](https://holopin.io/@lokeshsharma1703)
 
 <!-- 
